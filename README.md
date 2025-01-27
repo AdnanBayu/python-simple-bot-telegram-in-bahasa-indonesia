@@ -1,4 +1,5 @@
 # Python Simple Bot Telegram in Bahasa Indonesia
+![GitHub last commit](https://img.shields.io/github/last-commit/AdnanBayu/python-simple-bot-telegram-in-bahasa-indonesia) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AdnanBayu/python-simple-bot-telegram-in-bahasa-indonesia) <br/>
 Create telegram bot using python language and telegram package. Don't forget to install the telegram package on terminal using this command:
 
 Don't forget to install the telegram package on cmd using this command
