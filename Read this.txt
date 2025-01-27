@@ -1,8 +1,0 @@
-To create the API:
-1. Open telegram
-2. Search BotFather
-3. Click new bot
-4. Create name for your bot
-5. Create username
-6. Copy the API and paste it in your python program
-Don't forget to install the telegram package on cmd using this command: pip install python-telegram-bot.
